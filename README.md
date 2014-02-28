@@ -1,4 +1,4 @@
-# Apache Spark
+# Apache Spark :)
 
 Lightning-Fast Cluster Computing - <http://spark.incubator.apache.org/>
 
